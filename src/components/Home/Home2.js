@@ -19,12 +19,11 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              A few years ago I decided that I wanted to become a developer. I was 40. I had no experience. Only the will to learn. I have learned a little about code and a lot about life..
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> HTML5,CSS3,Javascript and also build wordpress sites. </b>
               </i>
               <br />
               <br />
@@ -67,7 +66,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/iamagenus/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
