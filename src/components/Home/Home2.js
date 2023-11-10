@@ -23,7 +23,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> HTML5,CSS3,Javascript and also build wordpress sites. </b>
+                <b className="purple"> HTML5,CSS3,Javascript and I also build wordpress sites. </b>
               </i>
               <br />
               <br />
